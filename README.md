@@ -44,4 +44,4 @@ The complete API documentation can be found [here](./DOCUMENTATION.md).
 
 ## UML Diagram
 
-![UML Diagram](./UML.png)
+![UML Diagram](./uml.png)
